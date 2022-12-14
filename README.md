@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DUROXOID
 - 👀 I’m interested in game dev and physical computing
-- 🌱 I’m currently learning C++ and java
+- 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on cleaning up bad code :D
 
 <!---
