@@ -4,3 +4,5 @@ Here is my current project:
 <p>https://www.curseforge.com/minecraft/mc-mods/saltcraft</p>
 My Itch.io page:
 <p>https://proctored-games.itch.io/</p>
+My Youtube Channel:
+<p>https://www.youtube.com/@ProctoredGames</p>
