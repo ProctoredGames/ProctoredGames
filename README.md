@@ -1,8 +1,8 @@
 <H1>Hello, I'm Proctored Games</H1>
 <p>I make video games and other things</p>
-Minecraft mod:
-<p>https://www.curseforge.com/minecraft/mc-mods/saltcraft</p>
-My itch.io page:
+Newgrounds:
+<p>https://www.curseforge.com/minecraft/mc-mods/saltcraft](https://proctoredgames.newgrounds.com/</p>
+itch.io:
 <p>https://proctored-games.itch.io/</p>
-My YouTube channel:
+YouTube:
 <p>https://www.youtube.com/@ProctoredGames</p>
