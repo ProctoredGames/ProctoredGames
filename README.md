@@ -3,6 +3,4 @@
 itch.io:
 <p>https://proctored-games.itch.io/</p>
 Minecraft modding:
-<p>https://www.curseforge.com/members/proctoredgames/projects</p>
-YouTube:
-<p>https://www.youtube.com/@ProctoredGames</p>
+<p>https://modrinth.com/user/ProctoredGames</p>
