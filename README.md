@@ -1,4 +1,4 @@
-<H1>Hello, I'm Proctored Games</H1>
+<H1>Hello</H1>
 <p>I make video games and other things</p>
 Newgrounds:
 <p>https://proctoredgames.newgrounds.com/</p>
