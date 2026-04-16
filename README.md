@@ -1,4 +1,3 @@
-<H1>Hello</H1>
+<h1>Hello</h1>
 <p>I make video games and other things</p>
-Linktree:
-<p>https://proctored-games.itch.io/](https://linktr.ee/proctoredgames</p>
+<p>Linktree: <a href="https://linktr.ee/proctoredgames">https://linktr.ee/proctoredgames</a></p>
